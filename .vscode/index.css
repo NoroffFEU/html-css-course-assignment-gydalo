@@ -1,0 +1,63 @@
+header, body, footer {
+    font-family: "Oswald", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: #fff;
+    min-height: 70px;
+    font-size: 1.5rem;
+}
+
+.logo img  {
+    max-width: 100px;
+    float: left;
+}
+
+.background-section {
+    background-repeat: no-repeat;
+    background-image: url(/images/iStock-1354761874.jpg);
+    background-size: cover;
+    height: 100vh;
+    color: #fff;
+    font-size: 2rem;
+}
+
+body {
+    background-color: #000A1B;
+    color: #fff;
+}
+
+
+.games {
+    background-color: #000A1B;
+    color: #fff;
+}
+
+.info {
+    color: #000A1B;
+}
+
+.cta {
+    color: #fff;
+    background-color: #3FA535;
+
+}
+
+footer {
+    color: white;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    color: #000A1B;
+    text-decoration: none;
+    padding: 10px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
